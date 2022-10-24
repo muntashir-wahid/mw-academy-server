@@ -4,27 +4,27 @@
     "name": "All Courses"
   },
   {
-    "id": "web-dev",
+    "id": 0,
     "name": "Web Development"
   },
   {
-    "id": "data-sci",
+    "id": 1,
     "name": "Data Science"
   },
   {
-    "id": "mob-dev",
+    "id": 2,
     "name": "Mobile Development"
   },
   {
-    "id": "game-dev",
+    "id": 3,
     "name": "Game Development"
   },
   {
-    "id": "sof-test",
+    "id": 4,
     "name": "Software Testing"
   },
   {
-    "id": "data-des-dev",
+    "id": 5,
     "name": "Database Design and Development"
   }
 ]
