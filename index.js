@@ -33,6 +33,18 @@ app.get("/category/:id", (req, res) => {
   res.send(selectedCategoryCourses);
 });
 
+// Serve a specific course data
+
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+
+  const selectedCourse = availableCourses.find(
+    (course) => course.courseId === id
+  );
+
+  res.send(selectedCourse);
+});
+
 app.listen(port, () => {
   console.log(`Server is listening on port ${port}`);
 });
