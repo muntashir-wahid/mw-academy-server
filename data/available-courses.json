@@ -4,18 +4,15 @@
     "categoryId": 0,
     "price": "$3,621.65",
     "picture": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/javascriptfull.png",
-    "rating": 4.01,
+    "rating": 4.0,
     "students": 41003,
     "instructor": "Hensley Combs",
     "courseName": "The Complete JavaScript Course",
-    "about": "Esse sint consequat quis in dolore voluptate ut officia id. Laboris culpa aute in minim duis. Ipsum tempor deserunt enim veniam. Amet ad ullamco cillum duis Lorem. Fugiat dolore incididunt amet elit eu aute minim nostrud duis velit deserunt consequat reprehenderit exercitation. Consectetur veniam sit irure qui nostrud Lorem labore veniam.\r\n",
-    "releaseDate": "2015-07-10T10:49:32 -06:00",
+    "about": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!Become an advanced, confident, and modern JavaScript developer from scratch.Become job-ready by understanding how JavaScript really works behind the scenes.JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.\r\n",
     "overview": [
-      "commodo enim non ex commodo id nulla laboris",
-      "consectetur quis aliqua id incididunt consequat commodo duis",
-      "consectetur ex exercitation laboris ea aliqua sit sint",
-      "deserunt dolore irure irure nisi incididunt id Lorem",
-      "consequat id proident ullamco ex aliqua id deserunt"
+      "Learn modern tools that are used by professional web developers: NPM, Parcel (module bundler), Babel, and ES6 modules",
+      "How JavaScript works behind the scenes: engines, the call stack, hoisting, scoping, the 'this' keyword, reference values, and more.",
+      "Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures."
     ]
   },
   {
@@ -23,18 +20,17 @@
     "categoryId": 1,
     "price": "$2,985.83",
     "picture": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/alex-chumak-zGuBURGGmdY-unsplash.jpg",
-    "rating": 4.66,
+    "rating": 4.6,
     "students": 12594,
     "instructor": "Reese Ball",
     "courseName": "Python for Data Science and Machine Learning",
-    "about": "Amet exercitation ea sit quis labore aliquip ea ex laborum cillum adipisicing velit veniam sunt. Incididunt deserunt nulla laboris cillum commodo. Tempor ex ullamco ipsum veniam incididunt velit reprehenderit nulla consequat occaecat nulla incididunt quis. Duis sit amet cillum enim labore nulla tempor non occaecat laboris. Nisi quis adipisicing Lorem eu et id tempor mollit eu labore sunt consequat magna.\r\n",
-    "releaseDate": "2017-05-08T04:19:30 -06:00",
+    "about": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!Use Python for Data Science and Machine Learning.Implement Machine Learning Algorithms.Use Plotly for interactive dynamic visualizations.Natural Language Processing and Spam Filters\r\n",
     "overview": [
-      "deserunt irure duis ea dolor esse mollit eiusmod",
-      "fugiat culpa quis culpa proident laboris duis esse",
-      "excepteur magna incididunt sit mollit non duis sunt",
-      "aute aliqua culpa adipisicing eu exercitation laboris consequat",
-      "amet eiusmod ad nulla ea nisi in consequat"
+      "Programming with Python",
+      "NumPy with Python",
+      "Using pandas Data Frames to solve complex tasks",
+      "Use matplotlib and seaborn for data visualizations",
+      "Machine Learning with SciKit Learn, including"
     ]
   },
   {
@@ -46,14 +42,13 @@
     "students": 28090,
     "instructor": "Stacey Knapp",
     "courseName": "The Ultimate MySQL Bootcamp",
-    "about": "Magna est reprehenderit commodo laborum cillum sint do adipisicing enim. Est nulla enim incididunt minim culpa consectetur eiusmod nulla. Velit anim labore aliquip qui do amet eu. Officia amet incididunt aliqua aliquip. Ut reprehenderit voluptate cupidatat pariatur adipisicing aliquip elit commodo irure adipisicing mollit ea.\r\n",
-    "releaseDate": "2021-07-07T07:02:55 -06:00",
+    "about": "This course was just completely redone and rebuilt from the ground up, with over 325 brand new videos recorded. The course now uses MySQL 8.x and covers new topics including: Window Functions, Views, and SQL modes.If you want to learn how to gain insights from data but are too intimidated by databases to know where to start, then this course is for you. This course is a gentle but comprehensive introduction to MySQL, one of the most highly in-demand skills in the business sector today.  \r\n",
     "overview": [
-      "mollit fugiat elit Lorem sit eu eiusmod dolore",
-      "officia consequat laboris non proident laborum velit eu",
-      "aliquip eiusmod dolore occaecat proident irure Lorem consequat",
-      "commodo eiusmod incididunt minim dolore aliqua exercitation sint",
-      "ad nulla ipsum nisi culpa dolore fugiat aliqua"
+      "Learn the ins and outs of SQL syntax",
+      "Generate reports using sales and user data",
+      "Analyze data using Aggregate Functions",
+      "Run complex queries using MySQL logical operators and string functions",
+      "Design and implement complex database schemas"
     ]
   },
   {
@@ -61,18 +56,16 @@
     "categoryId": 2,
     "price": "$1,804.10",
     "picture": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "rating": 4.93,
+    "rating": 4.9,
     "students": 39576,
     "instructor": "Vinson Stephens",
     "courseName": "The Complete iOS App Development Bootcamp",
-    "about": "Labore esse velit duis aute aliqua do nostrud amet amet elit labore sit ad. Occaecat exercitation ut exercitation veniam deserunt pariatur. Nulla ad eu minim eu reprehenderit sit non nisi nostrud sunt reprehenderit sint ut consequat. Eiusmod nostrud pariatur cupidatat incididunt aliquip consequat. Do eiusmod do ipsum esse nulla nulla aliquip ea irure duis commodo magna.\r\n",
-    "releaseDate": "2016-07-22T05:31:33 -06:00",
+    "about": "Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy!At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online!This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.\r\n",
     "overview": [
-      "magna qui adipisicing amet eu ut in duis",
-      "quis veniam nostrud sunt dolor cillum ipsum aliquip",
-      "sunt do elit laboris labore irure ipsum exercitation",
-      "voluptate cillum dolor laborum Lorem ad est qui",
-      "exercitation irure eiusmod ex occaecat nulla officia culpa"
+      "Concepts of Object Oriented Programming (OOP): The type system, variables, functions and methods, inheritance, structures, classes and protocols.",
+      "Control Structures: Using If ­Else clauses, Switch statements and logic to control the flow of execution.",
+      "How to Implement In-App Purchases with Apple StoreKit",
+      "Augmented Reality: How to create 3D objects in augmented reality and create incredible 3D animations and real-life interactions using Apple's latest ARKit2 framework."
     ]
   },
   {
@@ -80,18 +73,17 @@
     "categoryId": 4,
     "price": "$3,743.81",
     "picture": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/The-Complete-Guide-to-Understanding-and-Using-REST-APIs.png",
-    "rating": 4.78,
+    "rating": 4.7,
     "students": 30912,
     "instructor": "Bonnie Fox",
     "courseName": "Rest API Testing (Automation) from Scratch-Rest Assured Java",
     "about": "Irure nostrud nostrud magna nostrud incididunt amet veniam tempor aute tempor laborum voluptate cillum. Anim dolor ea consectetur pariatur non elit excepteur consectetur incididunt in laborum exercitation. Laborum laborum amet magna fugiat cupidatat proident officia enim ad esse aliqua esse ea aute. Occaecat aute qui aute exercitation duis. Deserunt culpa officia aute qui amet elit. Sint sint est in occaecat anim dolor fugiat ea incididunt cupidatat elit est dolor sint.\r\n",
-    "releaseDate": "2016-03-05T12:56:23 -06:00",
     "overview": [
-      "sint voluptate eu sunt deserunt veniam eiusmod non",
-      "quis consequat duis sit eiusmod aute ullamco occaecat",
-      "ea minim veniam minim officia eiusmod laborum aliqua",
-      "do laboris ullamco elit pariatur sint nulla labore",
-      "id labore fugiat culpa cillum consequat culpa magna"
+      "Understanding the REST API architecture",
+      "Terminologies such as Endpoint, Resources,Payload,Parameters",
+      "Setting up REST ASSURED environment for automation",
+      "Methods to validate Json and xpath responses",
+      "Serialization & Deserialization for Json inputs and outputs"
     ]
   },
   {
@@ -99,18 +91,16 @@
     "categoryId": 0,
     "price": "$3,928.76",
     "picture": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    "rating": 4.91,
+    "rating": 4.9,
     "students": 2564,
     "instructor": "Dana Morse",
     "courseName": "The Complete Web Developer in 2022",
-    "about": "Ea aute fugiat dolore enim excepteur fugiat ex adipisicing voluptate deserunt eiusmod. Et officia dolore ipsum consequat mollit adipisicing exercitation est proident tempor. Velit pariatur Lorem dolore adipisicing ut qui deserunt id consequat. Nostrud esse cillum culpa duis eu fugiat minim non Lorem culpa veniam. Ea id aute nulla exercitation.\r\n",
-    "releaseDate": "2016-06-22T09:04:48 -06:00",
+    "about": "Just Updated for 2022! Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead.\r\n",
     "overview": [
-      "occaecat labore nostrud quis nisi ex deserunt est",
-      "tempor magna tempor tempor laboris veniam quis non",
-      "laboris labore nisi nisi aliqua ex et eiusmod",
-      "ut eu excepteur ex excepteur non esse irure",
-      "ea adipisicing occaecat laboris nisi et incididunt duis"
+      "Build real complex applications and websites",
+      "Build an image recognition app so you can add it to your portfolio",
+      "Be able to go off on your own and grow your skills as a developer, having built a solid foundation",
+      "Build your own startup landing page"
     ]
   },
   {
@@ -118,18 +108,17 @@
     "categoryId": 3,
     "price": "$2,878.95",
     "picture": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/youtube-cover.jpg",
-    "rating": 4.49,
+    "rating": 4.4,
     "students": 33292,
     "instructor": "Trina Oneal",
     "courseName": "Complete C# Unity Game Developer 3D",
-    "about": "Anim id reprehenderit officia in ad mollit ad minim exercitation voluptate adipisicing id laborum enim. Culpa pariatur mollit labore deserunt aliquip quis sit. Labore est dolore eu exercitation tempor incididunt eu ipsum eu culpa. Reprehenderit dolore proident consectetur quis sint elit ut eu laboris ex minim deserunt.\r\n",
-    "releaseDate": "2014-05-06T10:52:43 -06:00",
+    "about": "This is the long-awaited sequel to the Complete Unity Developer - one of the most popular e-learning courses on the internet! Completely re-worked from scratch with brand-new projects and our latest teaching techniques. You will benefit from the fact we have already taught over a million students programming and game development, many shipping commercial games as a result.Unity is an incredible 3D package used for making video games, architectural and medical imaging and more. The challenge is that it's big and complicated to use, especially for complete beginners to coding and game development. We make learning to code easy and fun by leading you step-by-step through the process of creating exciting games.\r\n",
     "overview": [
-      "fugiat enim adipisicing anim cupidatat magna laboris commodo",
-      "magna deserunt dolor et est consequat nisi laboris",
-      "cillum occaecat deserunt et nulla do mollit deserunt",
-      "sit voluptate irure enim et consectetur ipsum cillum",
-      "irure officia anim consequat id aute qui consequat"
+      "Be challenged to build the entire game yourself.",
+      "Be shown step-by step how to build it.",
+      "Be challenged to apply, and re-apply your knowledge regularly.",
+      "Art asset creation (assets provided but not made on-screen).",
+      "Physics engine modification."
     ]
   },
   {
@@ -137,18 +126,17 @@
     "categoryId": 0,
     "price": "$3,129.49",
     "picture": "https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png",
-    "rating": 4.32,
+    "rating": 4.3,
     "students": 23431,
     "instructor": "Dee Horn",
     "courseName": "React - The Complete Guide",
-    "about": "Aliqua amet esse nostrud reprehenderit quis dolore Lorem id incididunt cupidatat amet. Veniam magna duis ad mollit fugiat. Ullamco veniam consectetur pariatur aute. Elit consectetur et ullamco nisi ipsum elit Lorem tempor aliquip exercitation sunt eiusmod ullamco. Dolor voluptate reprehenderit eu ut nisi elit. Aute sit est culpa laborum excepteur incididunt magna. Ipsum sint amet nisi qui enim nostrud consectetur adipisicing commodo non quis eu.\r\n",
-    "releaseDate": "2017-10-05T12:02:43 -06:00",
+    "about": "This course is fully up-to-date with React 18 (the latest version of React)!It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements! \r\n",
     "overview": [
-      "elit proident esse consequat irure excepteur aliquip ut",
-      "nisi nostrud proident adipisicing commodo mollit nostrud laboris",
-      "aliqua proident fugiat dolore ad et amet aliqua",
-      "anim ex non aliquip officia reprehenderit minim quis",
-      "incididunt ipsum cupidatat elit dolor voluptate fugiat nisi"
+      "A thorough introduction to React.js (What is it and why would you use it?)",
+      "Components, props & dynamic data binding",
+      "Working with user events and state to create interactive applications",
+      "React Hooks (in-depth)!",
+      "Working with built-in Hooks and building custom Hooks"
     ]
   },
   {
@@ -156,18 +144,17 @@
     "categoryId": 1,
     "price": "$3,053.42",
     "picture": "https://cdn-media-2.freecodecamp.org/w1280/5f9c9d09740569d1a4ca358a.jpg",
-    "rating": 4.79,
+    "rating": 4.7,
     "students": 5582,
     "instructor": "Diaz Massey",
     "courseName": "R For Data Science With Real Exercises",
-    "about": "Aliqua enim laborum laborum minim amet officia eiusmod elit. Cillum est enim nisi fugiat. Magna nisi qui esse cupidatat in culpa tempor. Deserunt Lorem pariatur nulla minim voluptate tempor pariatur magna. Ut occaecat pariatur minim occaecat consequat consectetur eiusmod dolor voluptate laborum amet in. Irure minim duis labore esse aute culpa reprehenderit in proident incididunt culpa laborum eiusmod aliquip.\r\n",
-    "releaseDate": "2014-10-30T10:22:51 -06:00",
+    "about": "Learn R Programming by doing!There are lots of R courses and lectures out there. However, R has a very steep learning curve and students often get overwhelmed. This course is different!This course is truly step-by-step. In every new tutorial we build on what had already learned and move one extra step forward.After every video, you learn a new valuable concept that you can apply right away. And the best part is that you learn through live examples.\r\n",
     "overview": [
-      "aliquip id qui consequat non do Lorem laborum",
-      "veniam anim nisi est laborum elit elit eu",
-      "officia mollit culpa sunt proident tempor dolore exercitation",
-      "ipsum mollit elit laborum ut proident cupidatat amet",
-      "excepteur magna exercitation occaecat amet aliqua enim ad"
+      "Learn how to use R Studio",
+      "Learn the core principles of programming",
+      "Learn how to create variables",
+      "Learn about integer, double, logical, character, and other types in R",
+      "Learn how to create a while() loop and a for() loop in R"
     ]
   },
   {
@@ -175,18 +162,16 @@
     "categoryId": 2,
     "price": "$3,872.62",
     "picture": "https://yfcampus.com/yfc_media/2019/10/Android-app-Development.jpg",
-    "rating": 4.06,
+    "rating": 4.0,
     "students": 37607,
     "instructor": "Vickie Faulkner",
     "courseName": "The Complete Android N Developer Course",
-    "about": "Do sit commodo duis do adipisicing enim pariatur. Sint mollit irure dolore commodo cillum est labore minim in laboris commodo ad. Proident esse sint excepteur anim proident anim sunt in et et ipsum proident. Adipisicing anim quis officia officia tempor commodo tempor. Pariatur est occaecat irure Lorem. Labore adipisicing anim commodo commodo ea sit magna dolore cupidatat nulla nulla ea esse.\r\n",
-    "releaseDate": "2020-08-25T07:42:21 -06:00",
+    "about": "Please note support for this course has now stopped, and that there is a newer version of the course (The Complete Android Oreo Developer Course) available.In this Android N version of the course I use Android Studio versions 2.0 and 2.1.2, and recommend students do the same.Building on last year’s runaway success: The Complete Android Developer Course (Udemy’s best-ever-selling Android course, with over 50,000 happy students), The Complete Android N Developer Course has been refined, honed and microscopically polished to deliver even more valuable content, all designed for the latest Android 7. \r\n",
     "overview": [
-      "enim ipsum qui adipisicing est id nisi magna",
-      "est quis Lorem magna quis id voluptate enim",
-      "cupidatat quis cupidatat magna ad ex pariatur non",
-      "eu sit ad do nisi qui amet laboris",
-      "et officia sunt esse amet dolor et laborum"
+      "Time-tested, quick-to-pick up learning strategies",
+      "Quality insider tips, that only the pros normally know",
+      "Home-based learning—so you can go as fast or slow as you please",
+      "Simple, jargon-free language and HD definition"
     ]
   }
 ]
